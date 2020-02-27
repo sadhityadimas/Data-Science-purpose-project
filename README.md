@@ -1,2 +1,2 @@
-# data-analysis-learning-project
-this Repository contains Data analysis project for data science purpose.
+# Data-analysis-learning-project
+This Repository contains Data analysis project for data science purpose.
